@@ -21,13 +21,6 @@ Modern typography and icon-supported layout
 
 A corporate website that strengthens the brand image and allows potential clients to quickly access information.
 
-📸 Suggested Visual Order
-
-Homepage screenshot
-Services page
-Mobile version (inside a phone mockup)
-Contact section
-
 //////////////////////////////////////////////TR//////////////////////////////////////////////////////////////
 
 🔹Mukba Yazılım – Kurumsal Web Sitesi
